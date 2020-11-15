@@ -1,0 +1,10 @@
+[
+  {
+    "environment": "dev",
+    "url": "https://staging.asian-promotions.com/"
+  },
+  {
+    "environment": "prod",
+    "url": "https://asian-promotions.com/"
+  }
+]
